@@ -1,0 +1,6 @@
+{
+  "name": "FreshFridge",
+  "description": "Smart food inventory and zero-waste kitchen companion. Track shelf life, rescue expiring ingredients, and cook delicious meals before food goes to waste.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
